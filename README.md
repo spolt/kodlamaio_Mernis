@@ -1,4 +1,4 @@
-## How to use WSDL for mernis application
+## How to use soap wsdl for your project
 
 RightClick on your project -> Create New Other -> Web Services -> Web Service Client
 
