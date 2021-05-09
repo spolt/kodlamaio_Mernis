@@ -18,8 +18,8 @@ Also you need to set JavaSE - 1.8, as you see below
 
 
 
-*NOTE: You can do that --> Help -> Install new Software -> Select you current eclipse version on the drop down field ->
-   And pick there all you need
+ *NOTE: You can do that --> Help -> Install new Software -> Select you current eclipse version on the drop down field ->
+   And pick there all you need*
    If you want to create java web services, the following selections could be useful:
   - JAX-WS DOM Tools
   - JAX-WS Tools
