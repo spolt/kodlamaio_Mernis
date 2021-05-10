@@ -1,6 +1,6 @@
-## How to use soap wsdl for your project
+## How to use soap client for your java project
 
-RightClick on your project -> Create New Other -> Web Services -> Web Service Client
+RightClick on your project -> Create New Other -> Web Services -> Web Service Client(WSC)
 
 ![Photo 1](/photos/photo1.png)
 
